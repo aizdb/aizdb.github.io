@@ -29,20 +29,14 @@
 ---
 
 ## 📄 رزومه
-📌 [مشاهده رزومه کامل در پارسکدرز](https://parscoders.com/resume/358786)
+📌 [مشاهده رزومه کامل](jobvision.ir/cv/65648417-223718)
 
 ---
 
 ## 📫 ارتباط با من
 <p align="center">
   <a href="https://github.com/aizdb"><img src="https://img.shields.io/badge/GitHub-aizdb-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>این README.md یک معرفی کوتاه است. برای جزئیات کامل و طراحی HTML، به صفحه‌ی <a href="./details.html">details.html</a> مراجعه کنید.</i>
+  <a href="https://linkedin.com/in/aizdb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/your-username"><img src="https://img.shields.io/badge/Telegram-E4405F?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:erfandb9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
