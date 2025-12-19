@@ -3,7 +3,7 @@
   <img src="https://github.com/aizdb.png" width="140" height="140" style="border-radius:50%;" alt="Mehdi Salehi Profile"/>
 </p>
 
-<h1 align="center">🦁 Mehdi Salehi</h1>
+<h1 align="center">🦁 Mehdi Salehi 🦁</h1>
 <p align="center">
   <b>Full-stack Developer | UI/UX Designer | Creative Strategist</b>
 </p>
@@ -27,9 +27,9 @@
 </p>
 
 ---
-<div align="center">
-## 📂 پروژه‌ها
 
+## 📂 پروژه‌ها
+<div align="center">
 | 🌌 Project | 🚀 Description |
 |------------|----------------|
 | **3D Orbital System** | سیستم مدار سه‌بعدی با انیمیشن‌های جذاب |
