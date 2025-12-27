@@ -39,10 +39,6 @@
 ---
 
 
-
-
-
-
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center"> 
 <a href="https://github.com/aizdb"><img src="https://img.shields.io/badge/GitHub-aizdb-000000?style=for-the-badge&logo=github&logoColor=white" /></a> 
