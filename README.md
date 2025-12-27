@@ -3,7 +3,7 @@
   <img src="https://github.com/aizdb.png" width="160" height="160" style="border-radius:50%;" alt="Mahdi Salehi Profile"/>
 </p>
 
-
+<!-- Animated Banner -->
 <h1 align="center">🦁 Mahdi Salehi 🦁</h1>
 <p align="center"> 
 <b>Full-stack Developer | UI/UX Designer | Creative Strategist</b>
