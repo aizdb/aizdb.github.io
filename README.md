@@ -38,14 +38,9 @@
 ---
 
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aizdb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 
----
 
 <h2 align="center">📫 Connect With Me</h2>
 <p align="center"> 
