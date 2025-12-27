@@ -4,9 +4,9 @@
 </p>
 
 
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=🦁+Mahdi+Salehi+🦁;Full‑Stack+Developer+%7C+UI%2FUX+Designer;Blockchain+%26+AI+Enthusiast;Creative+Strategist" alt="Typing SVG" />
+<h1 align="center">🦁 Mahdi Salehi 🦁</h1>
+<p align="center"> 
+<b>Full-stack Developer | UI/UX Designer | Creative Strategist</b>
 </p>
 
 ---
