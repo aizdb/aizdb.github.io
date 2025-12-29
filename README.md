@@ -51,7 +51,7 @@
 
 <h2 align="center">☕ Support</h2>
 <p align="center">
-  <a href="https://ko-fi.com/aizdb">
+  <a href="https://aizdb.wasmer.app/?page_id=2">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aizdb" />
   </a>
 </p>
